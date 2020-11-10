@@ -7,7 +7,7 @@ After a few years of making the AVR microcontroller programming and prototyping 
 [![The completed assembling of the ATMega16 development board](https://github.com/piavarelectro/ATMega16-Development-Board/blob/main/20201101_171200.jpg "The completed assembling of the ATMega16 development board")](https://piavarelectro.com/a-diy-atmega16-development-board-for-students/ "The completed assembling of the ATMega16 development board")
 
 ### Features
-I puted many blocks containing many components, easing the prototyping works.
+I putted many blocks containing many components, easing the prototyping works.
 1. Power Supply
 2. Basic Parts Of MCU
 3. RS-232
