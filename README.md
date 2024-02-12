@@ -1,10 +1,10 @@
 # ATMega16-Development-Board
-A DIY ATMega16 Development Board For Students - https://piavarelectro.com/a-diy-atmega16-development-board-for-students/
+A DIY ATMega16 Development Board For Students - https://bteworkshop.blogspot.com/2021/05/a-diy-atmega16-development-board-for.html
 ## ATMega16 AVR Development Board For Students And Hobbyists
 ### Overview 
 After a few years of making the AVR microcontroller programming and prototyping on the breadboard. I decided to design a development board for the Atmel AVR that contain most of my previous experiment.
 
-[![The completed assembling of the ATMega16 development board](https://github.com/piavarelectro/ATMega16-Development-Board/blob/main/20201101_171200.jpg "The completed assembling of the ATMega16 development board")](https://piavarelectro.com/a-diy-atmega16-development-board-for-students/ "The completed assembling of the ATMega16 development board")
+[![The completed assembling of the ATMega16 development board](https://github.com/piavarelectro/ATMega16-Development-Board/blob/main/20201101_171200.jpg "The completed assembling of the ATMega16 development board")](https://bteworkshop.blogspot.com/2021/05/a-diy-atmega16-development-board-for.html "The completed assembling of the ATMega16 development board")
 
 ### Features
 I putted many blocks containing many components, easing the prototyping works.
