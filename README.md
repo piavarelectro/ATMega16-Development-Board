@@ -43,4 +43,4 @@ The Serial Peripheral Interface (SPI) of this board is the MCP4922 dual 12-bit  
 #### Two Wire Interface
 The Two Wire Interface (TWI) Communication protocol allow the communication between the master MCU and its slave device via two wires on a single bus. The TWI slave devices here are, a DS1307 RTC and a AT24C16 EEPROM.
 
-For more information [click here](https://piavarelectro.com/a-diy-atmega16-development-board-for-students/ "click here") to see the details.
+For more information [click here](https://bteworkshop.blogspot.com/2021/05/a-diy-atmega16-development-board-for.html "click here") to see the details.
